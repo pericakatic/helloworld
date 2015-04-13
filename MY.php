@@ -1,3 +1,11 @@
 <?php
-//php code here
+Class Days {
+
+	public function Monday() {
+		echo 'I\m sleeping';
+	}
+}
+
+$days = new Days;
+$days->monday();
 ?>
