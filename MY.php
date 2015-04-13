@@ -1,6 +1,5 @@
 <?php
 Class Days {
-
 	public function Monday() {
 		echo 'I\m sleeping';
 	}
