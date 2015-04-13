@@ -8,7 +8,7 @@ Class Days {
 		echo 'Wake up and start coding real stuff :)';
 	}
 }
-
+//now comment to v2 branch
 $days = new Days;
 $days->Tuesday();
 ?>
