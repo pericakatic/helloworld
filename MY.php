@@ -13,6 +13,6 @@ $days = new Days;
 $days->Tuesday();
 
 for ($i=0;$i<10;$i++) {
-    echo 'I hate monday!';
+    echo '<p>I hate monday!</p>';
 }
 ?>
