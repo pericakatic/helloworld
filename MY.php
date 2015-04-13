@@ -8,7 +8,7 @@ Class Days {
 		echo 'Wake up and start coding real stuff :)';
 	}
 }
-//test
+//test goes to master
 $days = new Days;
 $days->Tuesday();
 ?>
