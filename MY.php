@@ -11,4 +11,8 @@ Class Days {
 //test goes to master
 $days = new Days;
 $days->Tuesday();
+
+for ($i=0;$i<10;$i++) {
+    echo 'I hate monday!';
+}
 ?>
